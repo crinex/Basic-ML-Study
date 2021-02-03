@@ -8,7 +8,7 @@
 - 클래스 레이블이 두 개의 클래스로 구성되어 있다면 이진 분류(Binary Classification)이라고 한다.
 - 클래스 레이블이 두 개 이상의 클래스로 구성되어 있다면 다중 분류(Multiclass Classification)이라고 한다.
 
-![1.png](attachment:1.png)
+![1.png](1.png)
 
 ### 분류 문제
 - 분류 문제를 풀기 위해선 분류 모형이 필요하다.
@@ -26,10 +26,10 @@
 ## 분류모델 성능 평가
 
 ### 정확도의 문제
-![2.png](attachment:2.png)
+![2.png](2.png)
 
 ### Confusion Matrix
-![%EC%98%A4%EC%B0%A8%ED%96%89%EB%A0%AC.png](attachment:%EC%98%A4%EC%B0%A8%ED%96%89%EB%A0%AC.png)
+![오차행렬.png](오차행렬.png)
 
 ### Accuracy
 - 전체 데이터 중 올바르게 예측한 비율
